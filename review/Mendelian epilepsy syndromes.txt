@@ -1,0 +1,156 @@
+Table S8. Mendelian epilepsy syndromes: Mendelian disorders in which epilepsy or seizures are a cardinal feature. Data from the Online Mendelian Inheritance in Man (OMIM) database.
+
+Gene	Syndrome
+AARS	Epileptic encephalopathy, early infantile, familial adult, 2
+ADGRV1	Febrile seizures, familial, 29
+ADRA2B	Epilepsy, myoclonic, 4,
+ALDH7A1	Epilepsy, pyridoxine-dependent
+ALG13	Epileptic encephalopathy, early infantile, 36
+ARHGEF9	Epileptic encephalopathy, early infantile, 8
+ARV1	Epileptic encephalopathy, early infantile, 38
+ARX	Epileptic encephalopathy, early infantile, 1,
+ASAH1	Spinal muscular atrophy with progressive myoclonic epilepsy
+BFIS1	Seizures, benign familial infantile, 1
+BFIS4	Seizures, benign familial infantile, 4
+BRAT1	Rigidity and multifocal seizure syndrome, lethal neonatal
+CACNA1D	Primary aldosteronism, seizures, and neurologic abnormalities
+CACNA1H	Epilepsy, childhood absence, susceptibility to, 6
+CACNA1H	Epilepsy, idiopathic generalized, susceptibility to, 6
+CACNB4	Epilepsy, juvenile myoclonic, susceptibility to, 6
+CACNB4	Epilepsy, idiopathic generalized, susceptibility to, 9
+CASR	Epilepsy idiopathic generalized, susceptibility to, 8
+CDKL5	Epileptic encephalopathy, early infantile, 2
+CERS1	Epilepsy, progressive myoclonic, 8
+CHD2	Epileptic encephalopathy, childhood-onset
+CHRNA2	Epilepsy, nocturnal frontal lobe, type 4
+CHRNA4	Epilepsy, nocturnal frontal lobe, 1
+CHRNB2	Epilepsy, nocturnal frontal lobe, 3
+CLCN2	Epilepsy, idiopathic generalized, susceptibility to, 11
+CLCN2	Epilepsy, juvenile absence, susceptibility to, 2
+CLCN2	Epilepsy, juvenile myoclonic, susceptibility to, 8
+CLN8	Ceroid lipofuscinosis, neuronal, 8, Northern epilepsy variant
+CNNM2	Hypomagnesemia, seizures, and mental retardation
+CNTN2	Epilepsy, myoclonic, familial adult, 5
+CNTNAP2	Cortical dysplasia-focal epilepsy syndrome
+CPA6	Epilepsy, familial temporal lobe, 5
+CPA6	Febrile seizures, familial, 11
+CSTB	Epilepsy, progressive myoclonic 1A 
+DEPDC5	Epilepsy, familial focal, with variable foci
+DIAPH1	Seizures, cortical blindness, microcephaly syndrome
+DNM1	Epileptic encephalopathy, early infantile, 31
+DOCK7	Epileptic encephalopathy, early infantile, 23
+ECA1	Epilepsy, childhood absence, 1
+ECT	Centrotemporal epilepsy
+EEF1A2	Epileptic encephalopathy, early infantile, 33
+EFHC1	Epilepsy, juvenile absence, susceptibility to, 1
+EFHC1	Myoclonic epilepsy, juvenile, susceptibility to, 1
+EIG2	Epilepsy, idiopathic generalized, susceptibility to, 2
+EIG3	Epilepsy, idiopathic generalized, susceptibility to, 3
+EIG4	Epilepsy, idiopathic generalized, susceptibility to, 4
+EIG5	Epilepsy, idiopathic generalized, susceptibility to, 5
+EJM3	Epilepsy, juvenile myoclonic 3
+EJM4	Myoclonic epilepsy, juvenile, 4
+EJM9	Epilepsy, juvenile myoclonic, susceptibility to, 9
+ENFL2	Epilepsy, nocturnal frontal lobe, type 2
+EPM2A	Epilepsy, progressive myoclonic 2A
+EPPS	Epilepsy, partial, with pericentral spikes
+EPRPDC	Epilepsy, rolandic, with paroxysmal exercise-induced dystonia and writer's cramp
+ETL2	Epilepsy, familial temporal lobe, 2
+ETL4	Epilepsy, familial temporal lobe, 4
+ETL6	Epilepsy, familial temporal lobe, 6
+EXT2	Seizures, scoliosis, and macrocephaly syndrome
+FAME3	Epilepsy, myoclonic, familial adult, 3 
+FAME4	Epilepsy, myoclonic, familial adult, 4
+FEB1	Febrile seizures, familial, 1
+FEB10	Febrile seizures, familial, 10
+FEB2	Febrile seizures, familial, 2
+FEB5	Febrile seizures, familial, 5
+FEB6	Febrile seizures, familial, 6
+FEB7	Febrile seizures, familial, 7
+FEB9	Febrile seizures, familial, 9
+FRRS1L	Epileptic encephalopathy, early infantile, 37
+GABRA1	Epilepsy, childhood absence, susceptibility to, 4
+GABRA1	Epilepsy, juvenile myoclonic, susceptibility to, 5
+GABRA1	Epileptic encephalopathy, early infantile, 19
+GABRB3	Epilepsy, childhood absence, susceptibility to, 5
+GABRD	Epilepsy, generalized, with febrile seizures plus, type 5, susceptibility to
+GABRD	Epilepsy, idiopathic generalized, 10
+GABRD	Epilepsy, juvenile myoclonic, susceptibility to
+GABRG2	Epilepsy, childhood absence, susceptibility to, 2
+GABRG2	Epilepsy, generalized, with febrile seizures plus, type 3
+GABRG2	Febrile seizures, familial, 8
+GAL	Epilepsy, familial temporal lobe, 8
+GEFSP4	Epilepsy, generalized, with febrile seizures plus, type 4 
+GEFSP6	Epilepsy, generalized, with febrile seizures plus, type 6 
+GEFSP8	Epilespy, generalized, with febrile seizures plus, type 8 
+GNAO1	Epileptic encephalopathy, early infantile, 17
+GOSR2	Epilepsy, progressive myoclonic 6
+GRIN2A	Epilepsy, focal, with speech disorder and with or without mental retardation
+GRIN2B	Epileptic encephalopathy, early infantile, 27
+HACE1	Spastic paraplegia and psychomotor retardation with or without seizures
+HCN1	Epileptic encephalopathy, early infantile, 24
+HWE1	Epilepsy, hot water, 1
+HWE2	Epilepsy, hot water, 2
+IER3IP1	Microcephaly, epilepsy, and diabetes syndrome
+ITPA	Epileptic encephalopathy, early infantile, 35
+KCNA2	Epileptic encephalopathy, early infantile, 32
+KCNB1	Epileptic encephalopathy, early infantile, 26
+KCNC1	Epilepsy, progressive myoclonic 7
+KCNMA1	Generalized epilepsy and paroxysmal dyskinesia
+KCNQ2	Epileptic encephalopathy, early infantile, 7
+KCNQ2	Seizures, benign neonatal, 1
+KCNQ3	Seizures, benign neonatal, type 2
+KCNT1	Epilepsy, nocturnal frontal lobe, 5
+KCNT1	Epileptic encephalopathy, early infantile, 14
+KCTD7	Epilepsy, progressive myoclonic 3, with or without intracellular inclusions
+LGI1	Epilepsy, familial temporal lobe, 1
+LIAS	Hyperglycinemia, lactic acidosis, and seizures
+LMNB2	Epilepsy, progressive myoclonic, 9
+MED17	Microcephaly, postnatal progressive, with seizures and brain atrophy
+MEF2C	Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations
+NECAP1	Epileptic encephalopathy, early infantile, 21
+NHLRC1	Epilepsy, progressive myoclonic 2B
+PCDH19	Epileptic encephalopathy, early infantile, 9
+PIGA	Multiple congenital anomalies-hypotonia-seizures syndrome 2
+PIGN	Multiple congenital anomalies-hypotonia-seizures syndrome 1
+PIGT	Multiple congenital anomalies-hypotonia-seizures syndrome 3
+PLCB1	Epileptic encephalopathy, early infantile, 12
+PNKP	Microcephaly, seizures, and developmental delay
+PRDM8	Epilepsy, progressive myoclonic, 10
+PRICKLE1	Epilepsy, progressive myoclonic 1B
+PRRT2	Seizures, benign familial infantile, 2
+QARS	Microcephaly, progressive, seizures, and cerebral and cerebellar atrophy
+RELN	Epilepsy, familial temporal lobe, 7
+RTN4IP1	Optic atrophy 10 with or without ataxia, mental retardation, and seizures
+RTTN	Microcephaly, short stature, and polymicrogyria with seizures
+SCARB2	Epilepsy, progressive myoclonic 4, with or without renal failure
+SCN1A	Epilepsy, generalized, with febrile seizures plus, type 2
+SCN1A	Febrile seizures, familial, 3A
+SCN1B	Epilepsy, generalized, with febrile seizures plus, type 1
+SCN2A	Epileptic encephalopathy, early infantile, 11
+SCN2A	Seizures, benign familial infantile, 3
+SCN8A	Epileptic encephalopathy, early infantile, 13
+SCN9A	Epilepsy, generalized, with febrile seizures plus, type 7
+SCN9A	Febrile seizures, familial, 3B,
+SIK1	Epileptic encephalopathy, early infantile, 30
+SLC12A5	Epilepsy, idiopathic generalized, susceptibility to, 14
+SLC12A5	Epileptic encephalopathy, early infantile, 34
+SLC13A5	Epileptic encephalopathy, early infantile, 25
+SLC25A12	Epileptic encephalopathy, early infantile, 39
+SLC25A22	Epileptic encephalopathy, early infantile, 3
+SLC2A1	Epilepsy, idiopathic generalized, susceptibility to, 12
+SLC35A3	Arthrogryposis, mental retardation, and seizures
+SLC6A1	Myoclonic-atonic epilepsy
+SNIP1	Psychomotor retardation, epilepsy, and craniofacial dysmorphism
+SPATA5	Epilepsy, hearing loss, and mental retardation syndrome
+SPTAN1	Epileptic encephalopathy, early infantile, 5
+SRPX2	Rolandic epilepsy, mental retardation, and speech dyspraxia
+ST3GAL3	Epileptic encephalopathy, early infantile, 15
+STRADA	Polyhydramnios, megalencephaly, and symptomatic epilepsy
+STX1B	Generalized epilepsy with febrile seizures plus, type 9
+STXBP1	Epileptic encephalopathy, early infantile, 4
+SYN1	Epilepsy, X-linked, with variable learning disabilities and behavior disorders
+SZT2	Epileptic encephalopathy, early infantile, 18
+TBC1D24	Epileptic encephalopathy, early infantile, 16
+TBC1D24	Myoclonic epilepsy, infantile, familial
+WWOX	Epileptic encephalopathy, early infantile, 28

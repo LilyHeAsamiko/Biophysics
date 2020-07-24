@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+d:\tut\medical\biophysics\experiment\bayes\bayes\bayes\bayes\stdafx.cpp(26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int64_t
+          ]
+  AssemblyInfo.cpp
+  Bayes.cpp
+d:\tut\medical\biophysics\experiment\bayes\bayes\bayes\bayes\stdafx.cpp(26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int64_t
+          ]
+  Generating Code...
+LINK : fatal error LNK1117: syntax error in option 'FORCE:[MULTIPLE|UNRESOLVED]'

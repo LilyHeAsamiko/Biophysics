@@ -1,0 +1,11 @@
+Table S3 Higher enrichment of epilepsy-eQTLs, compared to other eQTLs, within epilepsy GWAS meta-analysis SNPs: calculation of statistical significance by permutation.
+GWAS meta-analysis p-value	Permutation-based p-value (x10?4)
+	Braineac	GTEx
+<1x10-3	44	538
+<5x10-4	19	16
+<1x10-4	4	4
+<5x10-5	1	1
+<1x10-5	<1	1
+<5x10-6	<1	<1
+<1x10-6	<1	<1
+
