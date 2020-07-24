@@ -1,0 +1,2 @@
+76ec627b244376a5117245a6c9132750b442eebb9a43fff26b822433777fdf04  bionic-container-hyperv.manifest
+f802f1025bf6b01d288053e8cf78d7f36d01c68bce11a986e0ce38dffec6a63a  bionic-container-hyperv.vhdx.xz
