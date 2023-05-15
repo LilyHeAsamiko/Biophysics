@@ -2,6 +2,7 @@
 """synthetic_event.py
 
 Commented example script for inversion of a synthetic event, with more in depth explanation of the parameter choices
+Polarity parameter change.
 """
 
 
